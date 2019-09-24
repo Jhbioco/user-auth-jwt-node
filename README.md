@@ -1,5 +1,6 @@
 # user-auth-jwt-node
 Nodejs - user authentication with json web token and password hashing with bcrypt.
+Feel free to use this example to implement authentication with json web token in your projects.
 
 
 ## Dependencies
