@@ -6,9 +6,14 @@ This is a simple implementation of user authentication using json web token, and
 ## Dependencies
 ```
 npm i express
+npm i Joi
 npm i mongoose
 npm i bcrypt 
 npm i jsonwebtoken
 npm i config
 
 ```
+
+https://www.npmjs.com/package/config
+https://www.npmjs.com/package/jsonwebtoken
+https://www.npmjs.com/package/bcrypt
